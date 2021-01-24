@@ -15,7 +15,7 @@ To use, you will need to install MySQL2, Sequelize, and dotenv.  After installin
 
 ## Video Tutorial Link
 
-<iframe src="https://drive.google.com/file/d/14IdCF_nAY3xaRYA1LoT43SDCcgg0XEqp/preview" width="640" height="480"></iframe>
+"https://drive.google.com/file/d/14IdCF_nAY3xaRYA1LoT43SDCcgg0XEqp/preview"
 
 ## Questions  
 
